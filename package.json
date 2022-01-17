@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "mongoose": "^6.1.6"
+  },
+  "name": "code-mongoose",
+  "version": "1.0.0",
+  "main": "scripts.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon scripts.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
